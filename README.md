@@ -29,16 +29,12 @@
 
 <!-- ============ SOCIAL BADGES ============ -->
 <div align="center">
-<a href="https://linkedin.com/in/nitin-vishwkarma">
+<a href="https://linkedin.com/in/nitinvishwkarma">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/nitin_golu_04">
   <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://fb.com/nitin-vishwkarma">
-  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.leetcode.com/nitin-vishwkarma">
